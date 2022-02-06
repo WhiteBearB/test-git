@@ -1,1 +1,4 @@
 test2.txt
+add1
+add2
+add3
