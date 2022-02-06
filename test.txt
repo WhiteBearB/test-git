@@ -1,4 +1,6 @@
 test.txt,contents
 add1
+add5
 add2
+add4
 add3
